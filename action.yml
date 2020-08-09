@@ -1,0 +1,4 @@
+name: "Hello World"
+runs:
+    usingb: "node12"
+    main: "index.js"
